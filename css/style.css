@@ -1,0 +1,59 @@
+body{
+aspect-ratio: inherit
+  margin:0px;
+  text-align: center;
+
+}
+h1{
+font-family: 'Sacramento',cursive;
+padding-top: 80px;
+  margin: 0 auto 0 auto;
+
+}
+.toplayer{height: 100%;
+  width:100%;
+  padding: 30px;
+  background-color:#F1F1F1;
+}
+.top_cloud{
+  position: absolute;
+    right: 450px;
+    top: 90px;
+}
+
+.down_cloud{
+  position:relative;
+right: 300px;
+top: 200px;
+}
+.mountain{
+  position:relative;
+  right:25px;
+  top: 35px;
+}
+.underline{
+  text-decoration: underline;
+}
+.profile { background-color: #E2DCC8;
+  height: 100%;
+    width:100%;
+    padding: 30px;
+
+}
+.skills
+{
+  background-color: #ECCCB2;
+  height: 100%;
+    width:100%;
+    padding: 30px;
+}
+
+
+.skill1{
+  position: absolute;
+  left:0px;
+}
+.contact { margin: 0px;
+  background-color:#FEC260;
+  padding:30px;
+}
